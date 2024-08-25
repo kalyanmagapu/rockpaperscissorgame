@@ -1,0 +1,28 @@
+.popup-img {
+  margin: 20px;
+  height: 400px;
+  width: 450px;
+}
+.popup-bg {
+  background-color: #ffffff;
+  padding: 20px;
+}
+
+.close-card {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.rules-btn {
+  border-radius: 10px;
+  border-style: none;
+  background-color: #ffffff;
+  width: 80px;
+  color: #223a5f;
+  font-family: Bree serif;
+  font-weight: 700;
+  height: 40px;
+  margin-bottom: 10px;
+  margin-top: -5px;
+  cursor: pointer;
+}
