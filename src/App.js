@@ -33,7 +33,7 @@ class App extends Component {
   getPoints = (first, second) => {
     let Score = 0
 
-    if (first[0].id === 'Rock') {
+    if (first[0].id === 'ROCK') {
       switch (second.id) {
         case 'PAPER':
           Score = -1
